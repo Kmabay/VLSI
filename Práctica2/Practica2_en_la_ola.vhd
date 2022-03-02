@@ -1,3 +1,8 @@
+--Alexi Uriel Cabrera Mayoral
+--Diseño Digital VLSI
+--Practica 02
+--Código ejemplo
+
 Library IEEE;
 Use IEEE.Std_logic_1164.all;
 Use IEEE.Std_logic_arith.all;
