@@ -1,3 +1,3 @@
 # VLSI
 Prácticas de VLSI
-Desarrolladas en quartus, implementadas en trarjeta DE10-Lite
+(Desarrolladas en quartus, implementadas en tarjeta DE10-Lite)
