@@ -1,0 +1,38 @@
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+
+# Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+# File: D:\Escritorio\mot_pasodeuno.csv
+# Generated on: Sun Apr 03 18:53:42 2022
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus Prime software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Strict Preservation
+reset,Input,,,,PIN_R11,,,,,,
+reloj,Input,PIN_P11,3,B3_N0,PIN_P11,2.5 V,,,,,
+dato_motor[2],Output,PIN_Y10,3,B3_N0,PIN_Y10,2.5 V,,,,,
+dato_motor[3],Output,PIN_AB9,3,B3_N0,PIN_AB9,2.5 V,,,,,
+dato_motor[0],Output,PIN_AA12,4,B4_N0,PIN_AA12,2.5 V,,,,,
+dato_motor[1],Output,PIN_AA11,4,B4_N0,PIN_AA11,2.5 V,,,,,
+stop,Input,PIN_B8,7,B7_N0,PIN_B8,2.5 V,,,,,
+sel[0],Input,PIN_C10,7,B7_N0,PIN_C10,2.5 V,,,,,
+sel[1],Input,PIN_C11,7,B7_N0,PIN_C11,2.5 V,,,,,
+display[0],Output,PIN_C17,7,B7_N0,PIN_C17,2.5 V,,,,,
+display[1],Output,PIN_D17,7,B7_N0,PIN_D17,2.5 V,,,,,
+display[2],Output,PIN_E16,7,B7_N0,PIN_E16,2.5 V,,,,,
+display[3],Output,PIN_C16,7,B7_N0,PIN_C16,2.5 V,,,,,
+display[4],Output,PIN_C15,7,B7_N0,PIN_C15,2.5 V,,,,,
+display[5],Output,PIN_E15,7,B7_N0,PIN_E15,2.5 V,,,,,
+display[6],Output,PIN_C14,7,B7_N0,PIN_C14,2.5 V,,,,,
+dir,Input,PIN_A7,7,B7_N0,PIN_A7,2.5 V,,,,,
